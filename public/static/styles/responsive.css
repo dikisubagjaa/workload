@@ -1,0 +1,29 @@
+@media (max-width: 640px) { 
+    .navbar {
+        padding: 10px 15px;
+    }
+    .drawer-multiple {
+        margin-left: 0;
+    }
+
+    .floating-button {
+        bottom: 15px;
+        right: 15px;
+    }
+}
+
+@media (max-width: 768px) { 
+    
+}
+
+@media (max-width: 1024px) { 
+    
+}
+
+@media (max-width: 1280px) { 
+    
+}
+
+@media (max-width: 1536px) { 
+    
+}
